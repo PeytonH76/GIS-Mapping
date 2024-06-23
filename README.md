@@ -2,8 +2,6 @@
 
 My map software is the tutorial software with some changes because it wouldn't work. I did this because I couldn't figure out how to get data for another place.  I've come to a conclusion that this is something I don't want to do for a career. For this project, I ultimately just wanted to practice learning how to learn a new project that was tough for me to learn. My project used data from the ArcGIS system, and it displayed trails, trail heads, open spaces and parks in a start park in California by Los Angeles.  
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
-
 [GIS Mapping](https://youtu.be/OBfcqiyhS8U)
 
 # Development Environment
